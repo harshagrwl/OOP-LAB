@@ -1,6 +1,6 @@
 package animals;
 
-interface Animal {
+public interface Animal {
    public void eat();
    public void travel();
 }

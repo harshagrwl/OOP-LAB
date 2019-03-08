@@ -1,4 +1,4 @@
-package animals;
+import animals.Animal;
 
 public class reptile implements Animal {
 
